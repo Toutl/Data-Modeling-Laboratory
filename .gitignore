@@ -1,0 +1,9 @@
+**/.venv
+**/.vscode
+**/.style
+**/__pycache__
+
+info
+project
+**/0-*
+    
